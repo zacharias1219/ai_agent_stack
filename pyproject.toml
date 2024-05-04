@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "youtube_yapper_trapper"
+version = "0.1.0"
+description = "youtube-yapper-trapper using crewAI"
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<=3.13"
+crewai = {extras = ["tools"], version = "^0.28.8"}
+
+[tool.poetry.scripts]
+youtube_yapper_trapper = "youtube_yapper_trapper.main:run"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
