@@ -60,7 +60,7 @@ The youtube-yapper-trapper Crew is composed of multiple AI agents, each with uni
 For support, questions, or feedback regarding the YoutubeYapperTrapper crew, CrewAI, or AgentOps.
 
 - Visit CrewAI [documentation](https://docs.crewai.com)
-- Reach out to me through my [GitHub repository](https://github.com/tonykipkemboi/youtube-yapper-trapper)
+- Reach out to me through my [GitHub repository](https://github.com/zacharias1219)
 - [Joing CrewAI Discord](https://discord.com/invite/X4JWnZnxPb)
 - [Chat wtih CrewAI docs](https://chatg.pt/DWjSBZn)
 - [Check out AgentOps!](https://www.agentops.ai/)
